@@ -2,7 +2,7 @@ Number of command
 ===
 
 # Description
-This is countting and outputting program about using command.  
+This is counting and outputting command about using command.  
 
 # Usage
 ``` zsh
